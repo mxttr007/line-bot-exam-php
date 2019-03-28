@@ -48,7 +48,6 @@ if (!is_null($events['events'])) {
 		}
 	}
 }
-$event[‘type’] == ‘follow’
 echo "OK";
 
 
